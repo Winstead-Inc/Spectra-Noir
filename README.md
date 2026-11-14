@@ -17,10 +17,13 @@ Deep black OLED theme with signature purple and harmonized 6-tier rainbow brace 
 ## Preview
 
 ### Code Editor & Integrated Terminal
-![Black Void Code View](img/default.png)
+![Spectra Noir Code Editor & Integrated Terminal](img/preview-code-editor.png)
 
-### Markdown Documentation View
-![Black Void Markdown View](img/panelTerminal.png)
+### 6-Tier Rainbow Braces & Indentation Guides
+![Spectra Noir Rainbow Braces & Indentation Guides](img/preview-rainbow-guides.png)
+
+### Markdown Documentation & Antigravity IDE Chat
+![Spectra Noir Markdown View & Antigravity Chat](img/preview-antigravity-chat.png)
 
 ## Publisher & Author
 
