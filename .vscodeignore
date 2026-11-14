@@ -1,0 +1,7 @@
+.vscode/**
+.gitignore
+LAFS.exe
+*.py
+*.log
+failed.txt
+*.vsix

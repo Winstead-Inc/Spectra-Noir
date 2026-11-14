@@ -1,0 +1,34 @@
+{
+    "name": "spectra-noir",
+    "displayName": "Spectra Noir",
+    "description": "Deep pure black OLED dark theme with signature purple and rainbow accents.",
+    "version": "1.0.1",
+    "publisher": "Winstead-Inc",
+    "author": { "name": "Winstead-Inc" },
+    "icon": "img/void.png",
+    "repository": { "type": "git", "url": "https://github.com/Winstead-Inc/Black-Void" },
+    "engines": { "vscode": "^1.30.0" },
+    "galleryBanner": { "color": "#111111", "theme": "dark" },
+    "categories": ["Themes"],
+    "keywords":
+    ["dark", "dark theme", "black theme", "oled", "oled black", "oled theme", "pure black", "true black", "purple"],
+    "keywords":
+    [
+        "dark",
+        "dark theme",
+        "black theme",
+        "oled",
+        "oled black",
+        "oled theme",
+        "pure black",
+        "true black",
+        "purple"
+    ],
+    "contributes":
+    {
+        "themes":
+        [
+            { "label": "Spectra Noir", "uiTheme": "vs-dark", "path": "./themes/spectraNoir.json" }
+        ]
+    }
+}
